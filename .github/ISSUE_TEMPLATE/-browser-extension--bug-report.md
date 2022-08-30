@@ -2,7 +2,7 @@
 name: "[Browser Extension] Bug report"
 about: Create a report to help us improve Browser Extension
 title: ''
-labels: extension
+labels: bug, extension
 assignees: ''
 
 ---
